@@ -1,0 +1,15 @@
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/BubelevPraktikaV2.csproj.AssemblyReference.cache
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/BubelevPraktikaV2.GeneratedMSBuildEditorConfig.editorconfig
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/BubelevPraktikaV2.AssemblyInfoInputs.cache
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/BubelevPraktikaV2.AssemblyInfo.cs
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/BubelevPraktikaV2.csproj.CoreCompileInputs.cache
+/home/gr623_bunan/Документы/BubelevPraktikaV2/bin/Debug/net6.0/BubelevPraktikaV2
+/home/gr623_bunan/Документы/BubelevPraktikaV2/bin/Debug/net6.0/BubelevPraktikaV2.deps.json
+/home/gr623_bunan/Документы/BubelevPraktikaV2/bin/Debug/net6.0/BubelevPraktikaV2.runtimeconfig.json
+/home/gr623_bunan/Документы/BubelevPraktikaV2/bin/Debug/net6.0/BubelevPraktikaV2.dll
+/home/gr623_bunan/Документы/BubelevPraktikaV2/bin/Debug/net6.0/BubelevPraktikaV2.pdb
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/BubelevPraktikaV2.dll
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/refint/BubelevPraktikaV2.dll
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/BubelevPraktikaV2.pdb
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/BubelevPraktikaV2.genruntimeconfig.cache
+/home/gr623_bunan/Документы/BubelevPraktikaV2/obj/Debug/net6.0/ref/BubelevPraktikaV2.dll
